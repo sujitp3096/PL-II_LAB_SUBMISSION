@@ -3,6 +3,7 @@
 num1 = 10
 print("Type:", type(num1))
 
+
 # FLOAT
 num2 = 10.5
 print( " Type:", type(num2))
