@@ -4,7 +4,7 @@ with open("sample.txt", "w") as file:
     file.write("This is the second line.\n")
 print("File written successfully.\n")
 
-# Reading from the file
+# Reading from the fil
 print("Reading from the file:")
 with open("sample.txt", "r") as file:
     content = file.read()
