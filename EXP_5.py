@@ -12,6 +12,7 @@ print(len(tuple1))
 combined_tuple = tuple1 + tuple2
 print(combined_tuple)
 # Tuple repetition
+
 repeated_tuple = tuple2 * 3
 print(repeated_tuple)
 # Checking if an element exists
