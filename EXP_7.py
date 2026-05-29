@@ -6,7 +6,7 @@ def is_even_or_odd(number):
     print(number, "is odd")
 is_even_or_odd(7)
 is_even_or_odd(12)
-# Find the length of a string
+# Find the length of a 
 def string_length(text):
     print("The length of the string is:", len(text))
 string_length("Sujit")
